@@ -1,0 +1,5 @@
+# Created at 2026-04-29T15:31:50.118
+Boot Manifest-JAR contains absolute paths in classpath 'D:\UniSpace\UniSpace-Hub\backend\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
