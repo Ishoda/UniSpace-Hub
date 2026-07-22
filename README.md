@@ -39,7 +39,7 @@ I had **end-to-end ownership** of the **Maintenance & Incident Ticketing Module*
 
 ## System Architecture
 
-![System Architecture](documents/Sys_architecture.jpg)
+![System Architecture](Documents/Sys_architecture.jpg)
 
 **Three-tier Architecture:**
 - React Frontend → Axios → Spring Boot REST API → JPA/Hibernate → MySQL
@@ -50,7 +50,7 @@ I had **end-to-end ownership** of the **Maintenance & Incident Ticketing Module*
 ## Project Links
 
 - **Original Group Repository**: [https://github.com/ChirathDeSilva/UniSpace-Hub](https://github.com/ChirathDeSilva/UniSpace-Hub)
-- **Final Project Report**: [Download PDF](documents/PAF_Final_Report_Y3S1-WD-109.pdf)
+- **Final Project Report**: [Download PDF](Documents/PAF_Final_Report_Y3S1-WD-109.pdf)
 
 ## Features Implemented (My Module)
 
