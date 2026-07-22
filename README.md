@@ -1,7 +1,5 @@
 # UniSpace Hub — Smart Campus Operations Platform
 
-![Project Banner](screenshots/dashboard.png)
-
 **A full-stack web application to modernize university facility management and maintenance workflows.**
 
 ## Project Overview
@@ -37,29 +35,22 @@ I had **end-to-end ownership** of the **Maintenance & Incident Ticketing Module*
 | **Cloud**    | Cloudinary (attachments), Microsoft Entra ID / Google OAuth 2.0 |
 | **Others**   | Git, GitHub Actions, Postman, ZXing (QR codes) |
 
-## Screenshots
 
-*(Add your best screenshots here)*
-
-- **SLA Dashboard** – Risk visualization and ticket prioritization
-- **Ticket Creation & Detail View**
-- **Technician Ticket Management**
-- **Booking Management**
-- **Facility Catalogue**
 
 ## System Architecture
 
-![System Architecture](diagrams/architecture.png)
+![System Architecture](documents/Sys_architecture.jpg)
 
 **Three-tier Architecture:**
 - React Frontend → Axios → Spring Boot REST API → JPA/Hibernate → MySQL
 - Cloudinary for media storage
 - OAuth 2.0 authentication
 
+
 ## Project Links
 
 - **Original Group Repository**: [https://github.com/ChirathDeSilva/UniSpace-Hub](https://github.com/ChirathDeSilva/UniSpace-Hub)
-- **Final Project Report**: [Download PDF](docs/IT3030_PAF_Assignment_2026_GroupXX.pdf)
+- **Final Project Report**: [Download PDF](documents/PAF_Final_Report_Y3S1-WD-109.pdf)
 
 ## Features Implemented (My Module)
 
