@@ -1,5 +1,13 @@
 # UniSpace Hub — Smart Campus Operations Platform
 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?logo=oauth&logoColor=white)
+
 **A full-stack web application to modernize university facility management and maintenance workflows.**
 
 ## Project Overview
